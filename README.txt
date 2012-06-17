@@ -1,0 +1,1 @@
+This is a personal project for creating a private server of Granado Espada.
